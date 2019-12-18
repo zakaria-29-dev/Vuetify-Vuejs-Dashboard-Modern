@@ -1,4 +1,4 @@
-# dessign3
+# Vuetify - Vuejs - Dashboard Modern
 
 ## Project setup
 ```
